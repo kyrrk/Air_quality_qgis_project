@@ -1,0 +1,379 @@
+Air Pollutant,Air Quality Station Name,Air Quality Station Type,Air Quality Network Name,Longitude,Latitude,HubName,HubDist,Pollutant_Group,In_Particulates
+NO,41B005 - BELLIARD,background,Brussels,4.37875,50.84015,w28669727,3534.672126,Nitrogen compounds,FALSE
+O3,41B006 - PARL.EUROPE,background,Brussels,4.37439,50.83864,w28669727,3573.618235,Others,FALSE
+NO2,41B006 - PARL.EUROPE,background,Brussels,4.37439,50.83864,w28669727,3573.618235,Nitrogen compounds,FALSE
+CO,41B006 - PARL.EUROPE,background,Brussels,4.37439,50.83864,w28669727,3573.618235,Others,FALSE
+C6H6,41B006 - PARL.EUROPE,background,Brussels,4.37439,50.83864,w28669727,3573.618235,Volatile organic compounds,FALSE
+C6H5-CH3,41B006 - PARL.EUROPE,background,Brussels,4.37439,50.83864,w28669727,3573.618235,Volatile organic compounds,FALSE
+NO,41B006 - PARL.EUROPE,background,Brussels,4.37439,50.83864,w28669727,3573.618235,Nitrogen compounds,FALSE
+C6H5-C2H5,41B006 - PARL.EUROPE,background,Brussels,4.37439,50.83864,w28669727,3573.618235,Volatile organic compounds,FALSE
+"m,p-C6H4(CH3)2",41B006 - PARL.EUROPE,background,Brussels,4.37439,50.83864,w28669727,3573.618235,Volatile organic compounds,FALSE
+o-C6H4-(CH3)2,41B006 - PARL.EUROPE,background,Brussels,4.37439,50.83864,w28669727,3573.618235,Volatile organic compounds,FALSE
+SO2,41B008 - Brussel (Beliardstraat),traffic,Brussels,4.37585,50.84087,w28669727,3378.859952,Sulphur compounds,FALSE
+NO2,41B008 - Brussel (Beliardstraat),traffic,Brussels,4.37585,50.84087,w28669727,3378.859952,Nitrogen compounds,FALSE
+CO,41B008 - Brussel (Beliardstraat),traffic,Brussels,4.37585,50.84087,w28669727,3378.859952,Others,FALSE
+C6H6,41B008 - Brussel (Beliardstraat),traffic,Brussels,4.37585,50.84087,w28669727,3378.859952,Volatile organic compounds,FALSE
+C6H5-CH3,41B008 - Brussel (Beliardstraat),traffic,Brussels,4.37585,50.84087,w28669727,3378.859952,Volatile organic compounds,FALSE
+NO,41B008 - Brussel (Beliardstraat),traffic,Brussels,4.37585,50.84087,w28669727,3378.859952,Nitrogen compounds,FALSE
+C6H5-C2H5,41B008 - Brussel (Beliardstraat),traffic,Brussels,4.37585,50.84087,w28669727,3378.859952,Volatile organic compounds,FALSE
+"m,p-C6H4(CH3)2",41B008 - Brussel (Beliardstraat),traffic,Brussels,4.37585,50.84087,w28669727,3378.859952,Volatile organic compounds,FALSE
+o-C6H4-(CH3)2,41B008 - Brussel (Beliardstraat),traffic,Brussels,4.37585,50.84087,w28669727,3378.859952,Volatile organic compounds,FALSE
+SO2,41B011 - BERCHEM S.A,background,Brussels,4.28871,50.85781,w975314733,4135.75472,Sulphur compounds,FALSE
+PM10,41B011 - BERCHEM S.A,background,Brussels,4.28871,50.85781,w975314733,4135.75472,Particulates,TRUE
+PM10,41B011 - BERCHEM S.A,background,Brussels,4.28871,50.85781,w975314733,4135.75472,Particulates,TRUE
+O3,41B011 - BERCHEM S.A,background,Brussels,4.28871,50.85781,w975314733,4135.75472,Others,FALSE
+SO2,21ANDE - ANDERLECHT,background,Brussels,4.32872,50.83915,w39018402,2827.891685,Sulphur compounds,FALSE
+SO2,21B004 - STE.CATHERI,background,Brussels,4.34859,50.85081,w39018402,1116.491264,Sulphur compounds,FALSE
+SO2,2FR002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Sulphur compounds,FALSE
+SO2,21LAEK - IXEL,background,Brussels,4.32517,50.89593,w1059485777,1885.328676,Sulphur compounds,FALSE
+SO2,21MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Sulphur compounds,FALSE
+SO2,21POLI - BRUXELLES,background,Brussels,4.35044,50.84643,w39018402,1601.788406,Sulphur compounds,FALSE
+SO2,21R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Sulphur compounds,FALSE
+SO2,21R012 - IRM-KMI,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Sulphur compounds,FALSE
+NO2,41B011 - BERCHEM S.A,background,Brussels,4.28871,50.85781,w975314733,4135.75472,Nitrogen compounds,FALSE
+NO,41B011 - BERCHEM S.A,background,Brussels,4.28871,50.85781,w975314733,4135.75472,Nitrogen compounds,FALSE
+PM2.5,41B011 - BERCHEM S.A,background,Brussels,4.28871,50.85781,w975314733,4135.75472,Particulates,TRUE
+PM2.5,41B011 - BERCHEM S.A,background,Brussels,4.28871,50.85781,w975314733,4135.75472,Particulates,TRUE
+NO2,41BUL1 - BRUXELLES,traffic,Brussels,4.34182,50.83791,w39018402,2608.623212,Nitrogen compounds,FALSE
+NO,41BUL1 - BRUXELLES,traffic,Brussels,4.34182,50.83791,w39018402,2608.623212,Nitrogen compounds,FALSE
+NO2,41CHA1 - GANSHOREN,traffic,Brussels,4.30616,50.87037,w975314733,2522.656515,Nitrogen compounds,FALSE
+Pb in TSP,01AND2 - ANDERLECHT,background,Brussels,4.31597,50.82343,w39018402,4790.58683,Metals,FALSE
+Pb in TSP,01AND3 - ANDERLECHT,background,Brussels,4.31155,50.81998,w39018402,5278.923435,Metals,FALSE
+Cd in TSP,01AND3 - ANDERLECHT,background,Brussels,4.31155,50.81998,w39018402,5278.923435,Metals,FALSE
+Ni in TSP,01AND3 - ANDERLECHT,background,Brussels,4.31155,50.81998,w39018402,5278.923435,Metals,FALSE
+As in TSP,01AND3 - ANDERLECHT,background,Brussels,4.31155,50.81998,w39018402,5278.923435,Metals,FALSE
+Pb in TSP,01AND4 - ANDERLECHT,background,Brussels,4.30744,50.82731,w39018402,4770.854958,Metals,FALSE
+Pb in TSP,01BLD1 - BELLIARD,background,Brussels,4.37273,50.84158,w28669727,3226.285901,Metals,FALSE
+Pb in TSP,01BLD1 - BELLIARD,background,Brussels,4.37273,50.84158,w28669727,3226.285901,Metals,FALSE
+CO,41CHA1 - GANSHOREN,traffic,Brussels,4.30616,50.87037,w975314733,2522.656515,Others,FALSE
+NO,41CHA1 - GANSHOREN,traffic,Brussels,4.30616,50.87037,w975314733,2522.656515,Nitrogen compounds,FALSE
+SO2,47E013 - Vorst,industrial,Brussels,4.32838,50.8117,w39018402,5667.303661,Sulphur compounds,FALSE
+NO2,47E013 - Vorst,industrial,Brussels,4.32838,50.8117,w39018402,5667.303661,Nitrogen compounds,FALSE
+NO,47E013 - Vorst,industrial,Brussels,4.32838,50.8117,w39018402,5667.303661,Nitrogen compounds,FALSE
+NO2,41LEB2 - BRUXELLES,traffic,Brussels,4.32891,50.86371,w975314733,1457.982857,Nitrogen compounds,FALSE
+CO,41LEB2 - BRUXELLES,traffic,Brussels,4.32891,50.86371,w975314733,1457.982857,Others,FALSE
+NO,41LEB2 - BRUXELLES,traffic,Brussels,4.32891,50.86371,w975314733,1457.982857,Nitrogen compounds,FALSE
+Pb in TSP,0IHE02 - IHE,background,Brussels,4.38266,50.8245,w28669727,5250.937841,Metals,FALSE
+Pb in TSP,0IHE02 - IHE,background,Brussels,4.38266,50.8245,w28669727,5250.937841,Metals,FALSE
+Pb in TSP,0IHE02 - IHE,background,Brussels,4.38266,50.8245,w28669727,5250.937841,Metals,FALSE
+Pb in TSP,0IHE02 - IHE,background,Brussels,4.38266,50.8245,w28669727,5250.937841,Metals,FALSE
+Pb in TSP,0IHE02 - IHE,background,Brussels,4.38266,50.8245,w28669727,5250.937841,Metals,FALSE
+Pb in TSP,0IHE03 - COURONNE,background,Brussels,4.38436,50.82531,w28669727,5208.58244,Metals,FALSE
+Pb in TSP,0IHE03 - COURONNE,background,Brussels,4.38436,50.82531,w28669727,5208.58244,Metals,FALSE
+Pb in TSP,01MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Metals,FALSE
+Pb in TSP,01MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Metals,FALSE
+Cd in TSP,01MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Metals,FALSE
+Cd in TSP,01MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Metals,FALSE
+Ni in TSP,01MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Metals,FALSE
+Ni in TSP,01MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Metals,FALSE
+As in TSP,01MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Metals,FALSE
+As in TSP,01MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Metals,FALSE
+Pb in TSP,01R012 - IRM-KMI,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Metals,FALSE
+NO2,41LEC1 - BRUXELLES,traffic,Brussels,4.33216,50.8627,w975314733,1430.042311,Nitrogen compounds,FALSE
+CO,41LEC1 - BRUXELLES,traffic,Brussels,4.33216,50.8627,w975314733,1430.042311,Others,FALSE
+NO,41LEC1 - BRUXELLES,traffic,Brussels,4.33216,50.8627,w975314733,1430.042311,Nitrogen compounds,FALSE
+SO2,41MEU1 - MEUDON,background,Brussels,4.39572,50.895,w30342976,454.1099206,Sulphur compounds,FALSE
+PM10,41MEU1 - MEUDON,background,Brussels,4.39572,50.895,w30342976,454.1099206,Particulates,TRUE
+PM10,41MEU1 - MEUDON,background,Brussels,4.39572,50.895,w30342976,454.1099206,Particulates,TRUE
+O3,41MEU1 - MEUDON,background,Brussels,4.39572,50.895,w30342976,454.1099206,Others,FALSE
+NO2,41MEU1 - MEUDON,background,Brussels,4.39572,50.895,w30342976,454.1099206,Nitrogen compounds,FALSE
+NO,41MEU1 - MEUDON,background,Brussels,4.39572,50.895,w30342976,454.1099206,Nitrogen compounds,FALSE
+Hg0,41MEU1 - MEUDON,background,Brussels,4.39572,50.895,w30342976,454.1099206,Metals,FALSE
+PM2.5,41MEU1 - MEUDON,background,Brussels,4.39572,50.895,w30342976,454.1099206,Particulates,TRUE
+PM2.5,41MEU1 - MEUDON,background,Brussels,4.39572,50.895,w30342976,454.1099206,Particulates,TRUE
+SO2,41N043 - HAREN,industrial,Brussels,4.38298,50.88369,w30343027,349.5435479,Sulphur compounds,FALSE
+SO2,41N043 - HAREN,industrial,Brussels,4.38298,50.88369,w30343027,349.5435479,Sulphur compounds,FALSE
+PM10,41N043 - HAREN,industrial,Brussels,4.38298,50.88369,w30343027,349.5435479,Particulates,TRUE
+PM10,41N043 - HAREN,industrial,Brussels,4.38298,50.88369,w30343027,349.5435479,Particulates,TRUE
+Pb in TSP,01R012 - IRM-KMI,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Metals,FALSE
+Benzo(e)pyrene,61BLD1 - BELLIARD,background,Brussels,4.37273,50.84158,w28669727,3226.285901,Volatile organic compounds,FALSE
+Benzo(a)anthracene,61BLD1 - BELLIARD,background,Brussels,4.37273,50.84158,w28669727,3226.285901,Volatile organic compounds,FALSE
+Benzo(b)fluoranthene,61BLD1 - BELLIARD,background,Brussels,4.37273,50.84158,w28669727,3226.285901,Volatile organic compounds,FALSE
+Benzo(ghi)perylene,61BLD1 - BELLIARD,background,Brussels,4.37273,50.84158,w28669727,3226.285901,Volatile organic compounds,FALSE
+Benzo(k)fluoranthene,61BLD1 - BELLIARD,background,Brussels,4.37273,50.84158,w28669727,3226.285901,Volatile organic compounds,FALSE
+Fluoranthene,61BLD1 - BELLIARD,background,Brussels,4.37273,50.84158,w28669727,3226.285901,Volatile organic compounds,FALSE
+"Indeno-(1,2,3-cd)pyrene",61BLD1 - BELLIARD,background,Brussels,4.37273,50.84158,w28669727,3226.285901,Volatile organic compounds,FALSE
+Pyrene,61BLD1 - BELLIARD,background,Brussels,4.37273,50.84158,w28669727,3226.285901,Volatile organic compounds,FALSE
+Dibenzo(ah)anthracene,61BLD1 - BELLIARD,background,Brussels,4.37273,50.84158,w28669727,3226.285901,Volatile organic compounds,FALSE
+BaP,61BLD1 - BELLIARD,background,Brussels,4.37273,50.84158,w28669727,3226.285901,Others,FALSE
+Benzo(e)pyrene,61IHE2 - IHE,background,Brussels,4.38266,50.8245,w28669727,5250.937841,Volatile organic compounds,FALSE
+Benzo(a)anthracene,61IHE2 - IHE,background,Brussels,4.38266,50.8245,w28669727,5250.937841,Volatile organic compounds,FALSE
+Benzo(b)fluoranthene,61IHE2 - IHE,background,Brussels,4.38266,50.8245,w28669727,5250.937841,Volatile organic compounds,FALSE
+Benzo(ghi)perylene,61IHE2 - IHE,background,Brussels,4.38266,50.8245,w28669727,5250.937841,Volatile organic compounds,FALSE
+Benzo(k)fluoranthene,61IHE2 - IHE,background,Brussels,4.38266,50.8245,w28669727,5250.937841,Volatile organic compounds,FALSE
+O3,41N043 - HAREN,industrial,Brussels,4.38298,50.88369,w30343027,349.5435479,Others,FALSE
+NO2,41N043 - HAREN,industrial,Brussels,4.38298,50.88369,w30343027,349.5435479,Nitrogen compounds,FALSE
+CO,41N043 - HAREN,industrial,Brussels,4.38298,50.88369,w30343027,349.5435479,Others,FALSE
+NO,41N043 - HAREN,industrial,Brussels,4.38298,50.88369,w30343027,349.5435479,Nitrogen compounds,FALSE
+Black Carbon,41N043 - HAREN,industrial,Brussels,4.38298,50.88369,w30343027,349.5435479,Others,FALSE
+PM2.5,41N043 - HAREN,industrial,Brussels,4.38298,50.88369,w30343027,349.5435479,Particulates,TRUE
+PM2.5,41N043 - HAREN,industrial,Brussels,4.38298,50.88369,w30343027,349.5435479,Particulates,TRUE
+SO2,41R001 - MOLENBEEK,background,Brussels,4.3341,50.84971,w39018402,1654.078433,Sulphur compounds,FALSE
+PM10,41R001 - MOLENBEEK,background,Brussels,4.3341,50.84971,w39018402,1654.078433,Particulates,TRUE
+PM10,41R001 - MOLENBEEK,background,Brussels,4.3341,50.84971,w39018402,1654.078433,Particulates,TRUE
+O3,41R001 - MOLENBEEK,background,Brussels,4.3341,50.84971,w39018402,1654.078433,Others,FALSE
+NO2,41R001 - MOLENBEEK,background,Brussels,4.3341,50.84971,w39018402,1654.078433,Nitrogen compounds,FALSE
+CO,41R001 - MOLENBEEK,background,Brussels,4.3341,50.84971,w39018402,1654.078433,Others,FALSE
+CO,41R001 - MOLENBEEK,background,Brussels,4.3341,50.84971,w39018402,1654.078433,Others,FALSE
+NO,41R001 - MOLENBEEK,background,Brussels,4.3341,50.84971,w39018402,1654.078433,Nitrogen compounds,FALSE
+Fluoranthene,61IHE2 - IHE,background,Brussels,4.38266,50.8245,w28669727,5250.937841,Volatile organic compounds,FALSE
+"Indeno-(1,2,3-cd)pyrene",61IHE2 - IHE,background,Brussels,4.38266,50.8245,w28669727,5250.937841,Volatile organic compounds,FALSE
+Pyrene,61IHE2 - IHE,background,Brussels,4.38266,50.8245,w28669727,5250.937841,Volatile organic compounds,FALSE
+Dibenzo(ah)anthracene,61IHE2 - IHE,background,Brussels,4.38266,50.8245,w28669727,5250.937841,Volatile organic compounds,FALSE
+BaP,61IHE2 - IHE,background,Brussels,4.38266,50.8245,w28669727,5250.937841,Others,FALSE
+Benzo(e)pyrene,61MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+Benzo(a)anthracene,61MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+Benzo(b)fluoranthene,61MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+Black Carbon,41R001 - MOLENBEEK,background,Brussels,4.3341,50.84971,w39018402,1654.078433,Others,FALSE
+PM2.5,41R001 - MOLENBEEK,background,Brussels,4.3341,50.84971,w39018402,1654.078433,Particulates,TRUE
+PM2.5,41R001 - MOLENBEEK,background,Brussels,4.3341,50.84971,w39018402,1654.078433,Particulates,TRUE
+SO2,41R002 - IXELLES,traffic,Brussels,4.38456,50.82513,w28669727,5232.363766,Sulphur compounds,FALSE
+NO2,41R002 - IXELLES,traffic,Brussels,4.38456,50.82513,w28669727,5232.363766,Nitrogen compounds,FALSE
+CO,41R002 - IXELLES,traffic,Brussels,4.38456,50.82513,w28669727,5232.363766,Others,FALSE
+NO,41R002 - IXELLES,traffic,Brussels,4.38456,50.82513,w28669727,5232.363766,Nitrogen compounds,FALSE
+Benzo(ghi)perylene,61MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+Benzo(k)fluoranthene,61MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+Fluoranthene,61MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+"Indeno-(1,2,3-cd)pyrene",61MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+Pyrene,61MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+Dibenzo(ah)anthracene,61MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+BaP,61MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Others,FALSE
+Benzo(e)pyrene,61N043 - HAREN,industrial,Brussels,4.38296,50.88356,w30343027,337.8945019,Volatile organic compounds,FALSE
+Black Carbon,41R002 - IXELLES,traffic,Brussels,4.38456,50.82513,w28669727,5232.363766,Others,FALSE
+SO2,41R012 - UCCLE,background,Brussels,4.35862,50.79665,w39018402,7166.284314,Sulphur compounds,FALSE
+SO2,41R012 - UCCLE,background,Brussels,4.35862,50.79665,w39018402,7166.284314,Sulphur compounds,FALSE
+PM10,41R012 - UCCLE,background,Brussels,4.35862,50.79665,w39018402,7166.284314,Particulates,TRUE
+PM10,41R012 - UCCLE,background,Brussels,4.35862,50.79665,w39018402,7166.284314,Particulates,TRUE
+O3,41R012 - UCCLE,background,Brussels,4.35862,50.79665,w39018402,7166.284314,Others,FALSE
+NO2,41R012 - UCCLE,background,Brussels,4.35862,50.79665,w39018402,7166.284314,Nitrogen compounds,FALSE
+NO,41R012 - UCCLE,background,Brussels,4.35862,50.79665,w39018402,7166.284314,Nitrogen compounds,FALSE
+Black Carbon,41R012 - UCCLE,background,Brussels,4.35862,50.79665,w39018402,7166.284314,Others,FALSE
+PM2.5,41R012 - UCCLE,background,Brussels,4.35862,50.79665,w39018402,7166.284314,Particulates,TRUE
+PM10,41REG1 - BRUXELLES            ,traffic,Brussels,4.36701,50.84357,w28669727,2899.433834,Particulates,TRUE
+NO2,41REG1 - BRUXELLES            ,traffic,Brussels,4.36701,50.84357,w28669727,2899.433834,Nitrogen compounds,FALSE
+NO,41REG1 - BRUXELLES            ,traffic,Brussels,4.36701,50.84357,w28669727,2899.433834,Nitrogen compounds,FALSE
+PM2.5,41REG1 - BRUXELLES            ,traffic,Brussels,4.36701,50.84357,w28669727,2899.433834,Particulates,TRUE
+NO2,BETVBX1 - Brussel (Rue de Grand Ile),traffic,Brussels,4.34609,50.84608,w39018402,1659.582581,Nitrogen compounds,FALSE
+NO,BETVBX1 - Brussel (Rue de Grand Ile),traffic,Brussels,4.34609,50.84608,w39018402,1659.582581,Nitrogen compounds,FALSE
+NO2,BETVBX2 - Brussel (Rue des Tanneurs),traffic,Brussels,4.34683,50.84028,w39018402,2294.097566,Nitrogen compounds,FALSE
+NO,BETVBX2 - Brussel (Rue des Tanneurs),traffic,Brussels,4.34683,50.84028,w39018402,2294.097566,Nitrogen compounds,FALSE
+NO2,BETVBX3 - Brussel (Rue de Laeken),traffic,Brussels,4.35245,50.85502,w39018402,673.6009561,Nitrogen compounds,FALSE
+NO,BETVBX3 - Brussel (Rue de Laeken),traffic,Brussels,4.35245,50.85502,w39018402,673.6009561,Nitrogen compounds,FALSE
+SO2,41WOL1 - WOL.ST.L.,traffic,Brussels,4.42576,50.85671,w460179336,3127.882706,Sulphur compounds,FALSE
+PM10,41WOL1 - WOL.ST.L.,traffic,Brussels,4.42576,50.85671,w460179336,3127.882706,Particulates,TRUE
+PM10,41WOL1 - WOL.ST.L.,traffic,Brussels,4.42576,50.85671,w460179336,3127.882706,Particulates,TRUE
+O3,41WOL1 - WOL.ST.L.,traffic,Brussels,4.42576,50.85671,w460179336,3127.882706,Others,FALSE
+NO2,41WOL1 - WOL.ST.L.,traffic,Brussels,4.42576,50.85671,w460179336,3127.882706,Nitrogen compounds,FALSE
+CO,41WOL1 - WOL.ST.L.,traffic,Brussels,4.42576,50.85671,w460179336,3127.882706,Others,FALSE
+NO,41WOL1 - WOL.ST.L.,traffic,Brussels,4.42576,50.85671,w460179336,3127.882706,Nitrogen compounds,FALSE
+Black Carbon,41WOL1 - WOL.ST.L.,traffic,Brussels,4.42576,50.85671,w460179336,3127.882706,Others,FALSE
+C6H6,41WOL2 - WOL.ST.L.,background,Brussels,4.42579,50.85655,w460179336,3145.613531,Volatile organic compounds,FALSE
+Benzo(a)anthracene,61N043 - HAREN,industrial,Brussels,4.38296,50.88356,w30343027,337.8945019,Volatile organic compounds,FALSE
+Benzo(ghi)perylene,61N043 - HAREN,industrial,Brussels,4.38296,50.88356,w30343027,337.8945019,Volatile organic compounds,FALSE
+Fluoranthene,61N043 - HAREN,industrial,Brussels,4.38296,50.88356,w30343027,337.8945019,Volatile organic compounds,FALSE
+"Indeno-(1,2,3-cd)pyrene",61N043 - HAREN,industrial,Brussels,4.38296,50.88356,w30343027,337.8945019,Volatile organic compounds,FALSE
+Pyrene,61N043 - HAREN,industrial,Brussels,4.38296,50.88356,w30343027,337.8945019,Volatile organic compounds,FALSE
+Dibenzo(ah)anthracene,61N043 - HAREN,industrial,Brussels,4.38296,50.88356,w30343027,337.8945019,Volatile organic compounds,FALSE
+BaP,61N043 - HAREN,industrial,Brussels,4.38296,50.88356,w30343027,337.8945019,Others,FALSE
+Benzo(e)pyrene,61R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+Benzo(a)anthracene,61R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+Benzo(b)fluoranthene,61R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+Benzo(ghi)perylene,61R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+Benzo(k)fluoranthene,61R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+Fluoranthene,61R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+"Indeno-(1,2,3-cd)pyrene",61R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+Pyrene,61R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+Dibenzo(ah)anthracene,61R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+BaP,61R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Others,FALSE
+Benzo(e)pyrene,61R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+Benzo(a)anthracene,61R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+Benzo(b)fluoranthene,61R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+Benzo(ghi)perylene,61R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+Benzo(k)fluoranthene,61R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+C6H5-CH3,41WOL2 - WOL.ST.L.,background,Brussels,4.42579,50.85655,w460179336,3145.613531,Volatile organic compounds,FALSE
+C6H5-C2H5,41WOL2 - WOL.ST.L.,background,Brussels,4.42579,50.85655,w460179336,3145.613531,Volatile organic compounds,FALSE
+"m,p-C6H4(CH3)2",41WOL2 - WOL.ST.L.,background,Brussels,4.42579,50.85655,w460179336,3145.613531,Volatile organic compounds,FALSE
+o-C6H4-(CH3)2,41WOL2 - WOL.ST.L.,background,Brussels,4.42579,50.85655,w460179336,3145.613531,Volatile organic compounds,FALSE
+C6H6,51AUD1 - AUDERGHEM,background,Brussels,4.43787,50.81389,w1310809806,7493.7253,Volatile organic compounds,FALSE
+C6H5-CH3,51AUD1 - AUDERGHEM,background,Brussels,4.43787,50.81389,w1310809806,7493.7253,Volatile organic compounds,FALSE
+C6H5-C2H5,51AUD1 - AUDERGHEM,background,Brussels,4.43787,50.81389,w1310809806,7493.7253,Volatile organic compounds,FALSE
+Fluoranthene,61R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+"Indeno-(1,2,3-cd)pyrene",61R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+Pyrene,61R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+Dibenzo(ah)anthracene,61R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+BaP,61R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Others,FALSE
+Benzo(e)pyrene,61R003 - ARTS-LOI,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+Benzo(a)anthracene,61R003 - ARTS-LOI,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+Benzo(b)fluoranthene,61R003 - ARTS-LOI,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+Benzo(ghi)perylene,61R003 - ARTS-LOI,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+Benzo(k)fluoranthene,61R003 - ARTS-LOI,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+Fluoranthene,61R003 - ARTS-LOI,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+"Indeno-(1,2,3-cd)pyrene",61R003 - ARTS-LOI,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+Pyrene,61R003 - ARTS-LOI,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+Dibenzo(ah)anthracene,61R003 - ARTS-LOI,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+BaP,61R003 - ARTS-LOI,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Others,FALSE
+Benzo(e)pyrene,61R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+C7H16,51AUD1 - AUDERGHEM,background,Brussels,4.43787,50.81389,w1310809806,7493.7253,Volatile organic compounds,FALSE
+C6H14,51AUD1 - AUDERGHEM,background,Brussels,4.43787,50.81389,w1310809806,7493.7253,Volatile organic compounds,FALSE
+(CH3)3-C-CH2-CH-(CH3)2,51AUD1 - AUDERGHEM,background,Brussels,4.43787,50.81389,w1310809806,7493.7253,Volatile organic compounds,FALSE
+H3C-CH2-CH(CH3)2,51AUD1 - AUDERGHEM,background,Brussels,4.43787,50.81389,w1310809806,7493.7253,Volatile organic compounds,FALSE
+"1,2-dichloroethane (air)",51AUD1 - AUDERGHEM,background,Brussels,4.43787,50.81389,w1310809806,7493.7253,Volatile organic compounds,FALSE
+"m,p-C6H4(CH3)2",51AUD1 - AUDERGHEM,background,Brussels,4.43787,50.81389,w1310809806,7493.7253,Volatile organic compounds,FALSE
+C8H18,51AUD1 - AUDERGHEM,background,Brussels,4.43787,50.81389,w1310809806,7493.7253,Volatile organic compounds,FALSE
+o-C6H4-(CH3)2,51AUD1 - AUDERGHEM,background,Brussels,4.43787,50.81389,w1310809806,7493.7253,Volatile organic compounds,FALSE
+Benzo(a)anthracene,61R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+Benzo(b)fluoranthene,61R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+Benzo(ghi)perylene,61R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+Benzo(k)fluoranthene,61R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+Fluoranthene,61R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+"Indeno-(1,2,3-cd)pyrene",61R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+Pyrene,61R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+Dibenzo(ah)anthracene,61R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+BaP,61R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Others,FALSE
+Benzo(e)pyrene,61R112 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+Benzo(a)anthracene,61R112 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+Benzo(ghi)perylene,61R112 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+Fluoranthene,61R112 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+"Indeno-(1,2,3-cd)pyrene",61R112 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+Pyrene,61R112 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+Dibenzo(ah)anthracene,61R112 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+BaP,61R112 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Others,FALSE
+Benzo(e)pyrene,61WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+Benzo(a)anthracene,61WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+Benzo(b)fluoranthene,61WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+Benzo(ghi)perylene,61WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+Benzo(k)fluoranthene,61WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+Fluoranthene,61WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+"Indeno-(1,2,3-cd)pyrene",61WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+Pyrene,61WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+Dibenzo(ah)anthracene,61WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+BaP,61WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Others,FALSE
+Benzo(e)pyrene,61WOL2 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+Benzo(a)anthracene,61WOL2 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+Benzo(b)fluoranthene,61WOL2 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+H3C-(CH2)3-CH3,51AUD1 - AUDERGHEM,background,Brussels,4.43787,50.81389,w1310809806,7493.7253,Volatile organic compounds,FALSE
+"1,2,4-C6H3(CH3)3",51AUD1 - AUDERGHEM,background,Brussels,4.43787,50.81389,w1310809806,7493.7253,Volatile organic compounds,FALSE
+"1,2,3-C6H3(CH3)3",51AUD1 - AUDERGHEM,background,Brussels,4.43787,50.81389,w1310809806,7493.7253,Volatile organic compounds,FALSE
+"1,3,5-C6H3(CH3)3",51AUD1 - AUDERGHEM,background,Brussels,4.43787,50.81389,w1310809806,7493.7253,Volatile organic compounds,FALSE
+C6H6,51B003 - BRUXELLES,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+C6H5-CH3,51B003 - BRUXELLES,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+C6H5-C2H5,51B003 - BRUXELLES,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+C7H16,51B003 - BRUXELLES,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+Benzo(ghi)perylene,61WOL2 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+Benzo(k)fluoranthene,61WOL2 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+Fluoranthene,61WOL2 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+"Indeno-(1,2,3-cd)pyrene",61WOL2 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+Pyrene,61WOL2 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+Dibenzo(ah)anthracene,61WOL2 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+BaP,61WOL2 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Others,FALSE
+C6H14,51B003 - BRUXELLES,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+(CH3)3-C-CH2-CH-(CH3)2,51B003 - BRUXELLES,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+H3C-CH2-CH(CH3)2,51B003 - BRUXELLES,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+"1,2-dichloroethane (air)",51B003 - BRUXELLES,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+"m,p-C6H4(CH3)2",51B003 - BRUXELLES,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+C8H18,51B003 - BRUXELLES,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+o-C6H4-(CH3)2,51B003 - BRUXELLES,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+H3C-(CH2)3-CH3,51B003 - BRUXELLES,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+"1,2,3-C6H3(CH3)3",51B003 - BRUXELLES,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+"1,3,5-C6H3(CH3)3",51B003 - BRUXELLES,background,Brussels,4.36868,50.84572,w28669727,2699.440409,Volatile organic compounds,FALSE
+C6H6,51MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+C6H5-CH3,51MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+C6H5-C2H5,51MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+C7H16,51MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+C6H14,51MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+(CH3)3-C-CH2-CH-(CH3)2,51MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+SO2,41AND3 - ANDERLECHT,industrial,Brussels,4.31155,50.81998,w39018402,5278.923435,Sulphur compounds,FALSE
+SO2,41AND3 - ANDERLECHT,industrial,Brussels,4.31155,50.81998,w39018402,5278.923435,Sulphur compounds,FALSE
+PM10,41AND3 - ANDERLECHT,industrial,Brussels,4.31155,50.81998,w39018402,5278.923435,Particulates,TRUE
+PM10,41AND3 - ANDERLECHT,industrial,Brussels,4.31155,50.81998,w39018402,5278.923435,Particulates,TRUE
+O3,41AND3 - ANDERLECHT,industrial,Brussels,4.31155,50.81998,w39018402,5278.923435,Others,FALSE
+O3,41AND3 - ANDERLECHT,industrial,Brussels,4.31155,50.81998,w39018402,5278.923435,Others,FALSE
+NO2,41AND3 - ANDERLECHT,industrial,Brussels,4.31155,50.81998,w39018402,5278.923435,Nitrogen compounds,FALSE
+NO2,41AND3 - ANDERLECHT,industrial,Brussels,4.31155,50.81998,w39018402,5278.923435,Nitrogen compounds,FALSE
+H3C-CH2-CH(CH3)2,51MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+"1,2-dichloroethane (air)",51MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+"m,p-C6H4(CH3)2",51MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+C8H18,51MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+o-C6H4-(CH3)2,51MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+H3C-(CH2)3-CH3,51MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+"1,2,3-C6H3(CH3)3",51MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+"1,3,5-C6H3(CH3)3",51MEU1 - MEUDON,background,Brussels,4.39272,50.8951,w30342976,323.3764196,Volatile organic compounds,FALSE
+CO,41AND3 - ANDERLECHT,industrial,Brussels,4.31155,50.81998,w39018402,5278.923435,Others,FALSE
+CO,41AND3 - ANDERLECHT,industrial,Brussels,4.31155,50.81998,w39018402,5278.923435,Others,FALSE
+NO,41AND3 - ANDERLECHT,industrial,Brussels,4.31155,50.81998,w39018402,5278.923435,Nitrogen compounds,FALSE
+NO,41AND3 - ANDERLECHT,industrial,Brussels,4.31155,50.81998,w39018402,5278.923435,Nitrogen compounds,FALSE
+SO2,41B001 - BRUSSEL (Kunst-Wet),traffic,Brussels,4.36811,50.84578,w28669727,2681.549021,Sulphur compounds,FALSE
+NO2,41B001 - BRUSSEL (Kunst-Wet),traffic,Brussels,4.36811,50.84578,w28669727,2681.549021,Nitrogen compounds,FALSE
+CO,41B001 - BRUSSEL (Kunst-Wet),traffic,Brussels,4.36811,50.84578,w28669727,2681.549021,Others,FALSE
+NO,41B001 - BRUSSEL (Kunst-Wet),traffic,Brussels,4.36811,50.84578,w28669727,2681.549021,Nitrogen compounds,FALSE
+C6H6,51R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+C6H5-CH3,51R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+C6H5-C2H5,51R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+C7H16,51R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+C6H14,51R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+(CH3)3-C-CH2-CH-(CH3)2,51R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+H3C-CH2-CH(CH3)2,51R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+SO2,41B003 - BRUXELLES,traffic,Brussels,4.36861,50.84565,w28669727,2705.451411,Sulphur compounds,FALSE
+NO2,41B003 - BRUXELLES,traffic,Brussels,4.36861,50.84565,w28669727,2705.451411,Nitrogen compounds,FALSE
+CO,41B003 - BRUXELLES,traffic,Brussels,4.36861,50.84565,w28669727,2705.451411,Others,FALSE
+NO,41B003 - BRUXELLES,traffic,Brussels,4.36861,50.84565,w28669727,2705.451411,Nitrogen compounds,FALSE
+O3,41B004 - STE.CATHERI,background,Brussels,4.34778,50.85206,w39018402,984.0704694,Others,FALSE
+NO2,41B004 - STE.CATHERI,background,Brussels,4.34778,50.85206,w39018402,984.0704694,Nitrogen compounds,FALSE
+CO,41B004 - STE.CATHERI,background,Brussels,4.34778,50.85206,w39018402,984.0704694,Others,FALSE
+NO,41B004 - STE.CATHERI,background,Brussels,4.34778,50.85206,w39018402,984.0704694,Nitrogen compounds,FALSE
+SO2,41B005 - BELLIARD,background,Brussels,4.37875,50.84015,w28669727,3534.672126,Sulphur compounds,FALSE
+NO2,41B005 - BELLIARD,background,Brussels,4.37875,50.84015,w28669727,3534.672126,Nitrogen compounds,FALSE
+CO,41B005 - BELLIARD,background,Brussels,4.37875,50.84015,w28669727,3534.672126,Others,FALSE
+"1,2-dichloroethane (air)",51R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+"m,p-C6H4(CH3)2",51R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+C8H18,51R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+o-C6H4-(CH3)2,51R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+H3C-(CH2)3-CH3,51R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+"1,2,4-C6H3(CH3)3",51R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+"1,2,3-C6H3(CH3)3",51R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+"1,3,5-C6H3(CH3)3",51R001 - MOLENBEEK,background,Brussels,4.33382,50.84967,w39018402,1670.5471,Volatile organic compounds,FALSE
+C6H6,51R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+C6H5-CH3,51R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+C6H5-C2H5,51R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+C7H16,51R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+C6H14,51R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+(CH3)3-C-CH2-CH-(CH3)2,51R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+H3C-CH2-CH(CH3)2,51R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+"1,2-dichloroethane (air)",51R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+"m,p-C6H4(CH3)2",51R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+C8H18,51R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+o-C6H4-(CH3)2,51R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+H3C-(CH2)3-CH3,51R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+"1,2,4-C6H3(CH3)3",51R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+"1,2,3-C6H3(CH3)3",51R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+"1,3,5-C6H3(CH3)3",51R002 - IXELLES,traffic,Brussels,4.38472,50.82513,w28669727,5236.486202,Volatile organic compounds,FALSE
+C6H6,51R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+C6H5-CH3,51R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+C6H5-C2H5,51R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+C7H16,51R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+C6H14,51R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+(CH3)3-C-CH2-CH-(CH3)2,51R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+H3C-CH2-CH(CH3)2,51R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+"1,2-dichloroethane (air)",51R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+"m,p-C6H4(CH3)2",51R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+C8H18,51R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+o-C6H4-(CH3)2,51R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+H3C-(CH2)3-CH3,51R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+"1,2,4-C6H3(CH3)3",51R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+"1,2,3-C6H3(CH3)3",51R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+"1,3,5-C6H3(CH3)3",51R012 - UCCLE,background,Brussels,4.35854,50.79663,w39018402,7168.009216,Volatile organic compounds,FALSE
+C6H6,51WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+C6H5-CH3,51WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+C6H5-C2H5,51WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+C7H16,51WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+C6H14,51WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+(CH3)3-C-CH2-CH-(CH3)2,51WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+H3C-CH2-CH(CH3)2,51WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+"1,2-dichloroethane (air)",51WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+"m,p-C6H4(CH3)2",51WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+C8H18,51WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+o-C6H4-(CH3)2,51WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+H3C-(CH2)3-CH3,51WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+"1,2,4-C6H3(CH3)3",51WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+"1,2,3-C6H3(CH3)3",51WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
+"1,3,5-C6H3(CH3)3",51WOL1 - WOL.ST.L.,background,Brussels,4.4257,50.85658,w460179336,3140.738663,Volatile organic compounds,FALSE
