@@ -6,11 +6,15 @@ This project visualizes air quality monitoring stations in Belgium, using 2024 d
 - Raw and processed CSV files are included in the `/data` folder.
 
 ## Methods
-- Python script `categorize_pollutants.py` categorizes pollutants and outputs a CSV with new fields.
+- Python script `categorize_pollutants.py` categorizes pollutants and outputs a CSV with new fields. Script `delete_columns.py` keeps only needed columns. Script `pie_chart` creates a pie chart showing the share of air quality monitoring stations by pollutant chemical group. 
 - QGIS used for map visualization, legend creation, and color symbology.
 
-## Map
+## Map and Visualizations
+### Air Quality Map
 ![Brussels Air Quality Map](maps/Air_Quality_Map_Balgium.png)
+
+### Pollutant Group Distribution
+![Pie Chart of Pollutant Groups](pollutant_group_pie.png)
 
 ## How to Use
 1. Open the CSV in QGIS.
